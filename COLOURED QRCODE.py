@@ -1,6 +1,6 @@
 import qrcode
 
-data = 'MY NAME IS AKSHAY'
+data = 'GIVE ANY DATA'
 
 qr = qrcode.QRCode(version = 1, box_size =10, border=5)
 
