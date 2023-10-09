@@ -1,6 +1,6 @@
 import qrcode
 
-data = 'MY NAME IS AKSHAY'
+data = 'GIVE ANY DATA'
 
 img = qrcode.make(data)
 
